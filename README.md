@@ -8,7 +8,7 @@
     - [**Sources**](#sources)
     - [Scope of functionalities](#scope-of-functionalities)
     - [**Project status**](#project-status)
-    - [**Other information**](#other-information)
+    - [**View Project**](#other-information)
 
 
 
@@ -43,5 +43,5 @@ This project is based off of the design spec given. I added additional CSS and p
 ### **Project status**
 Ongoing...always room to grow!
 
-### **Other information**
-CodeAcademy Full Stack Off-Site Project
+### **View GitHub Project**
+https://davidkrem.github.io/Dasmoto/
