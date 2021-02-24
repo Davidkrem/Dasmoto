@@ -1,6 +1,7 @@
 # **Code Academy Project- Dasmoto's Arts & Crafts**
 
 ### **Introduction**
+
 - [**Code Academy Project- Dasmoto's Arts & Crafts**](#code-academy-project--dasmotos-arts--crafts)
     - [**Introduction**](#introduction)
     - [**Technologies**](#technologies)
